@@ -1,0 +1,41 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# fastPLS
+
+<!-- badges: start -->
+`r badger::badge_cran_release(pkg = "fastPLS", color = "green")`
+`r badger::badge_github_version("gdurif/fastPLS", color="blue")`
+<!-- badges: end -->
+
+The goal of fastPLS is to ...
+
+## Installation
+
+You can install the released version of fastPLS from [CRAN](https://CRAN.R-project.org) with:
+
+```r
+install.packages("fastPLS")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example, eval=FALSE}
+library(fastPLS)
+## basic example code
+```
+
