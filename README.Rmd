@@ -17,7 +17,8 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 `r badger::badge_cran_release(pkg = "fastPLS", color = "green")`
-`r badger::badge_github_version("gdurif/fastPLS", color="blue")`
+`r badger::badge_devel("gdurif/fastPLS", color="blue")`
+`r badger::badge_lifecycle("experimental", "orange")`
 <!-- badges: end -->
 
 The goal of fastPLS is to ...

@@ -7,6 +7,7 @@
 
 [![](https://www.r-pkg.org/badges/version/fastPLS?color=green)](https://cran.r-project.org/package=fastPLS)
 [![](https://img.shields.io/badge/devel%20version-0.1-blue.svg)](https://github.com/gdurif/fastPLS)
+[![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
 
 The goal of fastPLS is to …
