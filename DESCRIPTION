@@ -1,12 +1,14 @@
 Package: fastPLS
 Type: Package
 Title: What the package does (short line)
-Version: 1.0
+Version: 0.1
 Date: 2020-08-04
 Author: Who wrote it
 Maintainer: Who to complain to <yourfault@somewhere.net>
 Description: More about what it does (maybe more than one line)
 License: What license is it under?
+URL: https://github.com/gdurif/fastPLS
+BugReports: https://github.com/gdurif/fastPLS/issues
 Imports: Rcpp (>= 1.0.5)
 LinkingTo: Rcpp, RcppEigen
 Suggests: 
