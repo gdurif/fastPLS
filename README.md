@@ -10,16 +10,29 @@
 [![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
 
-The goal of fastPLS is to …
+> **WORK IN PROGRESS**
+
+Methods for regression and classification based on Partial Least Squares
+(PLS) framework. Efficient, fast and scalable implementation in C++.
+Standard and various sparse versions of PLS approach are available.
 
 ## Installation
 
-You can install the released version of fastPLS from
-[CRAN](https://CRAN.R-project.org) with:
+<!--
+You can install the development verion of fastPLS with:
 
-``` r
+```r
+devtools::install_github("gdurif/fastPLS")
+```
+-->
+
+<!--
+You can install the released version of fastPLS from [CRAN](https://CRAN.R-project.org) with:
+
+```r
 install.packages("fastPLS")
 ```
+-->
 
 ## Example
 
@@ -28,4 +41,5 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(fastPLS)
 ## basic example code
+# available soon
 ```
